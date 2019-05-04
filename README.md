@@ -1,4 +1,4 @@
-# Reservationswebsite
+# Reservation website
 ```
                                                ...HAIRGICIANS...
                                              People who create magic
