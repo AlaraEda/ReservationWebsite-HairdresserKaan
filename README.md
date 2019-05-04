@@ -1,6 +1,6 @@
-# Reserveringswebsite
+# Reservationswebsite
 ```
-                                               ...HAIR-GICIANS...
+                                               ...HAIRGICIANS...
                                              People who create magic
                                             for clients without a wand
 ```
